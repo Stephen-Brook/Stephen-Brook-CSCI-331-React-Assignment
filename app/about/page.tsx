@@ -1,4 +1,4 @@
-import RepoBlurb from "../../components/RepoBlurb";
+import RepoBlurb from "../../components/RepoBlurb.js";
 
 export default function AboutPage() {
   return (
